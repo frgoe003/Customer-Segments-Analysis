@@ -17,7 +17,7 @@
   <p align="center">
     Unsupervised Learning Project of [Udacity Nanodegree]: Intro to Machine Learning with Tensorflow
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/frgoe003/Customer-Segments-Analysis"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
